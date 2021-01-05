@@ -7,14 +7,6 @@ assignees: ''
 
 ---
 
-**Speaker**: 
-
-**Topic Title**:
-
-**Topic Summary**:
-
-**Speaker Bio**:
-
 **GoToMeeting link**: 
 
 **Agenda Items**:
