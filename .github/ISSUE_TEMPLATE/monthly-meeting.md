@@ -7,9 +7,12 @@ assignees: ''
 
 ---
 
-**Speaker**: ??
+**Speaker**: 
+
 **Topic Title**:
+
 **Topic Summary**:
+
 **Speaker Bio**:
 
 **GoToMeeting link**: 
@@ -20,4 +23,5 @@ assignees: ''
  - Item 3
 
 **Todos for this meeting**:
- [ ] Email speaker reminder
+ - [ ] Email speaker reminding them of their commitment
+ - [ ] Email user group invite
